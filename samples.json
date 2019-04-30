@@ -1,0 +1,24 @@
+[
+  {
+    "id": "earthquakes",
+    "label": "California Earthquakes",
+    "queryType": "sample",
+    "imageUrl": "https://raw.githubusercontent.com/brainy749/ImageICons/master/tiwara_1.png",
+    "description": "Location, maginitude and magtype of 2.5+ magnitude earthquakes in california.",
+    "size": 54936,
+	"visible": true,
+    "dataUrl": "https://raw.githubusercontent.com/brainy749/testdata/master/data/data.csv",
+    "configUrl": "https://raw.githubusercontent.com/brainy749/testdata/master/data/config.json"
+  },
+  {
+    "id": "dance",
+    "label": "Dance flow",
+    "queryType": "sample",
+    "imageUrl": "https://raw.githubusercontent.com/brainy749/ImageICons/master/datalab.png",
+    "description": "dance dance hehehe",
+    "size": 34936,
+  "visible": true,
+    "dataUrl": "https://raw.githubusercontent.com/brainy749/testdata/master/data/data.csv",
+    "configUrl": "https://raw.githubusercontent.com/brainy749/testdata/master/data/config.json"
+  }
+]
