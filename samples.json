@@ -6,7 +6,7 @@
     "imageUrl": "https://raw.githubusercontent.com/brainy749/ImageICons/master/tiwara_1.png",
     "description": "Location, maginitude and magtype of 2.5+ magnitude earthquakes in california.",
     "size": 54936,
-	"visible": true,
+    "visible": true,
     "dataUrl": "https://raw.githubusercontent.com/brainy749/testdata/master/data/data.csv",
     "configUrl": "https://raw.githubusercontent.com/brainy749/testdata/master/data/config.json"
   },
@@ -17,8 +17,19 @@
     "imageUrl": "https://raw.githubusercontent.com/brainy749/ImageICons/master/datalab.png",
     "description": "dance dance hehehe",
     "size": 34936,
-  "visible": true,
+    "visible": true,
     "dataUrl": "https://raw.githubusercontent.com/brainy749/testdata/master/data/data.csv",
     "configUrl": "https://raw.githubusercontent.com/brainy749/testdata/master/data/configg.json"
+  },
+  {
+    "id": "nigerchad",
+    "label": "Population density of Niger and Chad",
+    "queryType": "sample",
+    "imageUrl": "https://raw.githubusercontent.com/brainy749/ImageICons/master/tiwara_1.png",
+    "description": "Population density of Niger and Chad",
+    "size": 34936,
+    "visible": true,
+    "dataUrl": "https://raw.githubusercontent.com/brainy749/testdata/master/nigerchad/Niger_Chad_centroids.csv",
+    "configUrl": "https://raw.githubusercontent.com/brainy749/testdata/master/nigerchad/config.json"
   }
 ]
